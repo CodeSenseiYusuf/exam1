@@ -1,0 +1,10 @@
+#heading{
+    color: darkorange;
+    font-size: 30px;
+}
+.container{
+    width: 500px;
+    height: 500px;
+    background-color: yellow;
+    padding: 20px;
+}
